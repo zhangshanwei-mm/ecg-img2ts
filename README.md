@@ -3,7 +3,7 @@ This project focuses on digitizing fixed-layout, pre-cleaned ECG images. It spec
 
 
 # 2、 Pipeline Overview
-## 1、RBackground Removal
+## 1、Background Removal
 Currently, a threshold-based method is used to remove the background.
 
  - Future Work: This can be improved by integrating deep learning approaches, such as U- Net or VLMs (Vision-Language Models), for more robust background extraction.
